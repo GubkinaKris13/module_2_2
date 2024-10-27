@@ -1,0 +1,20 @@
+first = 20
+second = 35
+third = 40
+if first == second and first == third and second == third :
+    print(3)
+elif first == second or first == third or second == third :
+    print(2)
+elif first != second and first != third and second != third :
+    print(0)
+
+
+first = 40
+second = 35
+third = 40
+if first == second and first == third and second == third :
+    print(3)
+elif first == second or first == third or second == third :
+    print(2)
+elif first != second and first != third and second != third :
+    print(0)
